@@ -1,0 +1,6 @@
+name: SquelchChat
+version: @VERSION@
+main: dev.vankka.squelchchat.SquelchChat
+author: Vankka
+description: Removes all recipients from every chat message, effectively squelching every chat message
+api-version: 1.13
